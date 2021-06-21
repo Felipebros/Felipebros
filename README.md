@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Felipebros</h1>
-<h3 align="center">A passionate backend developer from Brasil, 👯 I’m looking to collaborate on ...</h3>
+<h3 align="center">A passionate backend developer from Brasil, 👯 I’m looking to collaborate on open source projects</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipebros&label=Profile%20views&color=0e75b6&style=flat" alt="felipebros" /> </p>
 

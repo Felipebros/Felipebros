@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felipebros" alt="felipebros" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/felipebross" target="blank"><img src="https://img.shields.io/twitter/follow/felipebross?logo=twitter&style=for-the-badge" alt="felipebross" /></a> </p>
+<p align="left"> <a href="https://twitter.com/felipebross" target="_blank"><img src="https://img.shields.io/twitter/follow/felipebross?logo=twitter&style=for-the-badge" alt="Twitter felipebross" title="Twitter felipebross" /></a> </p>
 
 - 📫 How to reach me **felipeiturama@gmail.com**
 
@@ -17,10 +17,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/felipebros" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="felipebros" height="30" width="40" /></a>
-<a href="https://twitter.com/felipebross" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="felipebross" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/felipebros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipebros" height="30" width="40" /></a>
-<a href="https://pt.stackoverflow.com/users/96918/felipebros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="felipebros" height="30" width="40" /></a>
+<a href="https://dev.to/felipebros" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="felipebros" height="30" width="40" /></a>
+<a href="https://twitter.com/felipebross" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter felipebross" title="Twitter felipebross" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/felipebros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn felipebros" title="LinkedIn felipebros" height="30" width="40" /></a>
+<a href="https://pt.stackoverflow.com/users/96918/felipebros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow felipebros Português" title="stackoverflow felipebros Português" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/10386610/felipebros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow felipebros International" title="stackoverflow felipebros International" height="30" width="40" /></a>
 <a href="https://fb.com/felipebros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="felipebros" height="30" width="40" /></a>
 <a href="https://instagram.com/felipeiturama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="felipeiturama" height="30" width="40" /></a>
 <a href="https://medium.com/@felipebros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@felipebros" height="30" width="40" /></a>

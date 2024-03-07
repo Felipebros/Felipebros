@@ -29,7 +29,7 @@
 <a href="https://medium.com/@felipebros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@felipebros" height="30" width="40" /></a>
 <a href="https://www.youtube.com/felipeiturama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="felipeiturama" height="30" width="40" /></a>
 <a href="https://discord.gg/Felipebros#2938" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Felipebros#2938" height="30" width="40" /></a>
-<a href="https://glasp.co/#/Felipebros" target="blank"><img align="center" src="https://glasp.co/src/img/glasp_logo.png" alt="Felipebros" height="30" width="30" /></a>
+<a href="https://glasp.co/#/Felipebros" target="blank"><img align="center" src="https://glasp.co/icon.png?b7ea8766af3facf6" alt="Felipebros" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Felipebros</h1>
-<h3 align="center">A passionate backend developer from Brasil, 👯 I’m looking to collaborate on open source projects</h3>
+<h1 align="center">Olá 👋, eu sou Felipebros</h1>
+<h3 align="center">Desenvolvedor backend apaixonado por desenvolvimento, moro em Minas Gerais, Brasil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipebros&label=Profile%20views&color=0e75b6&style=flat-square&label=Visualizações+do+perfil" alt="felipebros" /> </p>
 
@@ -7,11 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/felipebross" target="_blank"><img src="https://img.shields.io/twitter/follow/felipebross?logo=twitter&style=for-the-badge" alt="Twitter felipebross" title="Twitter felipebross" /></a> </p>
 
-- 🌎 My [PDF Manager](https://pdfmanageronline.blogspot.com/p/merge-pdf-file.html) tools site
+- 🌎 Meu site de links úteis e testes [https://comercioiturama.blogspot.com](https://comercioiturama.blogspot.com)
 
-- 📫 How to reach me **felipeiturama@gmail.com**
+- 🌎 Site de ferramenta de [PDF Manager](https://pdfmanageronline.blogspot.com/p/merge-pdf-file.html)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/felipebros/](https://www.linkedin.com/in/felipebros/)
+- 📫 Como entrar em contato comigo **felipeiturama@gmail.com**
+
+- 📄 Saiba mais sobre minhas experiências [https://www.linkedin.com/in/felipebros/](https://www.linkedin.com/in/felipebros/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->

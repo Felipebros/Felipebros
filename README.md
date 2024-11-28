@@ -43,7 +43,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felipebros&show_icons=true&locale=en" alt="felipebros" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felipebros&" alt="felipebros" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felipebros&locale=pt-br" alt="felipebros" /></p>
 
 
 <!--

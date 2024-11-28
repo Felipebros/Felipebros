@@ -11,6 +11,8 @@
 
 - 🌎 Site de ferramenta de [PDF Manager](https://pdfmanageronline.blogspot.com/p/merge-pdf-file.html)
 
+- 🌎 Lista de melhores bancos e dicas financeiras [https://linktr.ee/Felipebros](https://linktr.ee/Felipebros)
+
 - 📫 Como entrar em contato comigo **felipeiturama@gmail.com**
 
 - 📄 Saiba mais sobre minhas experiências [https://www.linkedin.com/in/felipebros/](https://www.linkedin.com/in/felipebros/)

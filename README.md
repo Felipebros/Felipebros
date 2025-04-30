@@ -7,6 +7,32 @@
 
 <p align="left"> <a href="https://twitter.com/felipebross" target="_blank"><img src="https://img.shields.io/twitter/follow/felipebross?logo=twitter&style=for-the-badge" alt="Twitter felipebross" title="Twitter felipebross" /></a> </p>
 
+
+---
+
+👋 Olá! Sou **Felipe Soares Barbosa Silveira**, desenvolvedor backend com mais de 7 anos de experiência em criação de APIs, microsserviços e automações escaláveis.
+
+💻 **Tecnologias que uso**:\
+Python (Django, Flask, FastAPI) · PHP (Laravel, CodeIgniter) · PostgreSQL · MySQL · ElasticSearch · DynamoDB · Firebird · Redis · Celery · RabbitMQ · Docker · AWS (Lambda, SQS, SNS, S3, SES, Step Functions) · JavaScript · jQuery · getbootstrap · TDD · BDD · DDD
+
+🔧 **Experiência prática com**:
+
+- Desenvolvimento backend e fullstack
+- Criação de sistemas com jQuery, JavaScript e Bootstrap
+- Web Crawlers com Scrapy
+- Testes automatizados com Pytest
+- Integração e deploy contínuos
+- Infraestrutura serverless
+- Sistemas legados e modernos
+
+🎓 **Formação**: Sistemas de Informação (FEF)
+
+📂 Confira meus projetos públicos aqui no GitHub!\
+📬 Contato: [felipeiturama@gmail.com](mailto:felipeiturama@gmail.com) | [LinkedIn](https://www.linkedin.com/in/felipebros)
+
+---
+
+
 - 🌎 Meu site de links úteis e testes [https://comercioiturama.blogspot.com](https://comercioiturama.blogspot.com)
 
 - 🌎 Códigos e ferramentas úteis [https://felipebros.github.io/Codigos/](https://felipebros.github.io/Codigos/)

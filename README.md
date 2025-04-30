@@ -13,7 +13,7 @@
 👋 Olá! Sou **Felipe Soares Barbosa Silveira**, desenvolvedor backend com mais de 7 anos de experiência em criação de APIs, microsserviços e automações escaláveis.
 
 💻 **Tecnologias com as quais já trabalhei**:\
-Python (Django, Flask, FastAPI) · PHP (Laravel, CodeIgniter) · PostgreSQL · MySQL · ElasticSearch · DynamoDB · Firebird · Redis · Celery · RabbitMQ · Docker · AWS (Lambda, SQS, SNS, S3, SES, Step Functions) · JavaScript · jQuery · getbootstrap · TDD · BDD · DDD
+Python (Django, Flask, FastAPI, Scrapy) · PHP (Laravel, CodeIgniter) · PostgreSQL · MySQL · ElasticSearch · DynamoDB · Firebird · Redis · Celery · RabbitMQ · Docker · AWS (Lambda, SQS, SNS, S3, SES, Step Functions) · JavaScript · jQuery · getbootstrap · TDD · BDD · DDD
 
 🔧 **Experiência prática com**:
 

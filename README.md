@@ -1,23 +1,24 @@
-<h1 align="center">Olá 👋, eu sou Felipebros</h1>
-<h3 align="center">Desenvolvedor backend apaixonado por desenvolvimento, moro em Minas Gerais, Brasil</h3>
+<h1 align="center">Olá 👋, sou Felipebros</h1>
+<h3 align="center">Desenvolvedor Backend/FullStack apaixonado por desenvolvimento, moro em Minas Gerais, Brasil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipebros&label=Profile%20views&color=0e75b6&style=flat-square&label=Visualizações+do+perfil" alt="felipebros" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felipebros" alt="felipebros" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/felipebross" target="_blank"><img src="https://img.shields.io/twitter/follow/felipebross?logo=twitter&style=for-the-badge" alt="Twitter felipebross" title="Twitter felipebross" /></a> </p>
-
+<div>
+  <a href="https://www.linkedin.com/in/felipebros/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white][" target="_blank"></a> 
+  <a href="https://www.instagram.com/felipeiturama/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-b30525?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/felipebross" target="_blank"><img src="https://img.shields.io/twitter/follow/felipebross?logo=twitter&style=for-the-badge" alt="Twitter felipebross" title="Twitter felipebross" /></a>
+</div>
 
 ---
 
-👋 Olá! Sou **Felipe Soares Barbosa Silveira**, desenvolvedor backend com mais de 7 anos de experiência em criação de APIs, microsserviços e automações escaláveis.
+👋 Olá! Sou **Felipe Soares Barbosa Silveira**, desenvolvedor Backend/FullStack com mais de 7 anos de experiência em criação de APIs, microsserviços e automações escaláveis.
 
 💻 **Tecnologias com as quais já trabalhei**:\
 Python (Django, Flask, FastAPI, Scrapy) · PHP (Laravel, CodeIgniter) · PostgreSQL · MySQL · ElasticSearch · DynamoDB · Firebird · Redis · Celery · RabbitMQ · Docker · AWS (Lambda, SQS, SNS, S3, SES, Step Functions) · JavaScript · jQuery · getbootstrap · TDD · BDD · DDD
 
 🔧 **Experiência prática com**:
 
-- Desenvolvimento backend e fullstack
+- Desenvolvimento Desenvolvedor Backend e FullStack
 - Criação de sistemas com jQuery, JavaScript e Bootstrap
 - Web Crawlers com Scrapy
 - Testes automatizados com Pytest
@@ -32,7 +33,6 @@ Python (Django, Flask, FastAPI, Scrapy) · PHP (Laravel, CodeIgniter) · Postgre
 
 ---
 
-
 - 🌎 Meu site de links úteis e testes [https://comercioiturama.blogspot.com](https://comercioiturama.blogspot.com)
 
 - 🌎 Códigos e ferramentas úteis [https://felipebros.github.io/Codigos/](https://felipebros.github.io/Codigos/)
@@ -41,9 +41,11 @@ Python (Django, Flask, FastAPI, Scrapy) · PHP (Laravel, CodeIgniter) · Postgre
 
 - 🌎 Site de ferramenta de [PDF Manager](https://pdfmanageronline.blogspot.com/p/merge-pdf-file.html)
 
+- 🌎 Perfil Tabnews [Tabnews](https://www.tabnews.com.br/Felipebros)
+
 - 📫 Como entrar em contato comigo **felipeiturama@gmail.com**
 
-- 📄 Saiba mais sobre minhas experiências [https://www.linkedin.com/in/felipebros/](https://www.linkedin.com/in/felipebros/)
+- 📄 Saiba mais sobre minhas experiências no LinkedIn [https://www.linkedin.com/in/felipebros/](https://www.linkedin.com/in/felipebros/)
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
@@ -72,6 +74,8 @@ Python (Django, Flask, FastAPI, Scrapy) · PHP (Laravel, CodeIgniter) · Postgre
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felipebros&show_icons=true&locale=en" alt="felipebros" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felipebros&locale=pt-br" alt="felipebros" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felipebros" alt="felipebros" /></a> </p>
 
 
 <!--

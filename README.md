@@ -78,7 +78,7 @@ Python (Django, Flask, FastAPI, Scrapy) · PHP (Laravel, CodeIgniter) · Postgre
 
 
 <div style="display: inline-block;">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felipebros&locale=pt-br" alt="Contribuições felipebros" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felipebros" alt="Contribuições GitHub felipebros" />
 </div>
 
 ---

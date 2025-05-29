@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou Felipebros</h1>
-<h3 align="center">Desenvolvedor Backend/FullStack apaixonado por desenvolvimento, moro em Minas Gerais, Brasil</h3>
+<h3 align="center">Desenvolvedor Backend / FullStack apaixonado por desenvolvimento, moro em Minas Gerais, Brasil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipebros&label=Profile%20views&color=0e75b6&style=flat-square&label=Visualizações+do+perfil" alt="felipebros" /> </p>
 

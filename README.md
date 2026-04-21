@@ -12,23 +12,21 @@
   <a href="mailto:felipeiturama@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email felipeiturama@gmail.com" title="Email felipeiturama@gmail.com" /></a>
 </p>
 
----
-
 ### 🚀 Sobre mim
 
 👋 Olá! Sou **Felipe Soares Barbosa Silveira**, desenvolvedor Backend/FullStack. Atuo na área desde 2018, acumulando mais de 7 anos de experiência sólida na criação de APIs, microsserviços e automações escaláveis.
 
-💻 **Tecnologias com as quais já trabalhei**:\
+### 💻 **Tecnologias com as quais já trabalhei**
 Python (Django, Flask, FastAPI, Scrapy) · PHP (Laravel, CodeIgniter) · PostgreSQL · MySQL · ElasticSearch · DynamoDB · Firebird · Redis · Celery · RabbitMQ · Docker · AWS (Lambda, SQS, SNS, S3, SES, Step Functions) · JavaScript · jQuery · getbootstrap · TDD · BDD · Arquitetura DDD.
 
-🔧 **Experiência prática com**:
+### 🔧 **Experiência prática**
 - Desenvolvimento Backend e FullStack
 - Criação de sistemas com JavaScript, jQuery e Bootstrap
 - Web Crawlers com Scrapy
 - Testes automatizados (TDD/BDD) com Pytest
 - Infraestrutura Serverless e deploy contínuo (AWS)
 
-🎓 **Formação**: Sistemas de Informação (FEF)
+### 🎓 **Formação**: Sistemas de Informação (FEF)
 
 📂 Confira meus projetos públicos aqui no GitHub!\
 📬 Contato: [felipeiturama@gmail.com](mailto:felipeiturama@gmail.com) | [LinkedIn](https://www.linkedin.com/in/felipebros)

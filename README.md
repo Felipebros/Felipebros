@@ -51,6 +51,19 @@ Python (Django, Flask, FastAPI, Scrapy) · PHP (Laravel, CodeIgniter) · Postgre
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+---
+
+### 📬 Contatos
+
+<p align="left">
+  <a href="https://dev.to/felipebros" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" height="25" /></a>
+  <a href="https://x.com/felipebross" target="blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="25" /></a>
+  <a href="https://linkedin.com/in/felipebros" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" /></a>
+  <a href="https://stackoverflow.com/users/10386610/felipebros" target="blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height="25" /></a>
+  <a href="https://medium.com/@felipebros" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="25" /></a>
+  <a href="https://www.youtube.com/felipeiturama" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="25" /></a>
+</p>
+
 <h3 align="left">Minhas redes sociais:</h3>
 <p align="left">
 <a href="https://dev.to/felipebros" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="felipebros" height="30" width="40" /></a>
@@ -118,19 +131,6 @@ Python (Django, Flask, FastAPI, Scrapy) · PHP (Laravel, CodeIgniter) · Postgre
 #### 🎨 Design
 <p align="left">
   <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/> </a>
-</p>
-
----
-
-### 📬 Conecte-se comigo
-
-<p align="left">
-  <a href="https://dev.to/felipebros" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" height="25" /></a>
-  <a href="https://x.com/felipebross" target="blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="25" /></a>
-  <a href="https://linkedin.com/in/felipebros" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" /></a>
-  <a href="https://stackoverflow.com/users/10386610/felipebros" target="blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height="25" /></a>
-  <a href="https://medium.com/@felipebros" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="25" /></a>
-  <a href="https://www.youtube.com/felipeiturama" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="25" /></a>
 </p>
 
 ---

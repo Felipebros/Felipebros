@@ -66,7 +66,6 @@ Python (Django, Flask, FastAPI, Scrapy) · PHP (Laravel, CodeIgniter) · Postgre
 <a href="https://glasp.co/#/Felipebros" target="blank"><img align="center" src="https://glasp.co/icon.png" alt="Felipebros" height="30" width="30" /></a>
 </p>
 
-
 ### 🛠️ Tecnologias & Ferramentas
 
 <h3 align="left">Linguagens de programação e Ferramentas:</h3>
@@ -104,20 +103,16 @@ Python (Django, Flask, FastAPI, Scrapy) · PHP (Laravel, CodeIgniter) · Postgre
 
 <p align="center">
   <img height=195 src="https://github-readme-stats.vercel.app/api?username=felipebros&show_icons=true" alt="Estatísticas GitHub felipebros">
-</p>
-
-<p align="center">
+  <br>
   <img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipebros&layout=compact" alt="Linguagens mais usadas por felipebros no GitHub">
-</p>
-
-<p align="center">
+  <br>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=felipebros" alt="Contribuições GitHub felipebros" /></a>
 </p>
 
 ---
 
 <p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felipebros" alt="Troféus de perfil do GitHub felipebros" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felipebros" alt="Troféus de perfil do GitHub felipebros" /></a>
 </p>
 
 

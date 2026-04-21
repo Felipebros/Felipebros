@@ -66,6 +66,9 @@ Python (Django, Flask, FastAPI, Scrapy) · PHP (Laravel, CodeIgniter) · Postgre
 <a href="https://glasp.co/#/Felipebros" target="blank"><img align="center" src="https://glasp.co/icon.png" alt="Felipebros" height="30" width="30" /></a>
 </p>
 
+
+### 🛠️ Tecnologias & Ferramentas
+
 <h3 align="left">Linguagens de programação e Ferramentas:</h3>
 <p align="left">
 <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
@@ -97,24 +100,24 @@ Python (Django, Flask, FastAPI, Scrapy) · PHP (Laravel, CodeIgniter) · Postgre
 <a href="https://www.qt.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a>
 <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
-##
+### 📊 Estatísticas
 
-<div style="display: inline-block;">
+<p align="center">
   <img height=195 src="https://github-readme-stats.vercel.app/api?username=felipebros&show_icons=true" alt="Estatísticas GitHub felipebros">
   <img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipebros&layout=compact" alt="Linguagens mais usadas por felipebros no GitHub">
-</div>
+</p>
 
 
-<div style="display: inline-block;">
+<p align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=felipebros" alt="Contribuições GitHub felipebros" /></a>
-</div>
+</p>
 
 
 ---
 
-<div style="display: inline-block;">
+<p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felipebros" alt="Troféus de perfil do GitHub felipebros" /></a>
-</div>
+</p>
 
 
 <!--

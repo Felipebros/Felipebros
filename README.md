@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipebros&label=Profile%20views&color=0e75b6&style=flat-square&label=Visualizações+do+perfil" alt="felipebros" /> </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/felipebros/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white][" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/felipebros/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/felipeiturama/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-b30525?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/felipebross" target="_blank"><img src="https://img.shields.io/twitter/follow/felipebross?logo=twitter&style=for-the-badge" alt="Twitter felipebross" title="Twitter felipebross" /></a>
   <a href="mailto:felipeiturama@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>

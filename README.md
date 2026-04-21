@@ -14,7 +14,7 @@
 
 ### 🚀 Sobre mim
 
-👋 Olá! Sou **Felipe Soares Barbosa Silveira**, desenvolvedor Backend/FullStack com experiência desde 2018, tenho mais de 7 anos de experiência em criação de APIs, microsserviços e automações escaláveis.
+👋 Olá! Sou **Felipe Soares Barbosa Silveira**, desenvolvedor Backend/FullStack. Atuo na área desde 2018, acumulando mais de 7 anos de experiência sólida na criação de APIs, microsserviços e automações escaláveis.
 
 💻 **Tecnologias com as quais já trabalhei**:\
 Python (Django, Flask, FastAPI, Scrapy) · PHP (Laravel, CodeIgniter) · PostgreSQL · MySQL · ElasticSearch · DynamoDB · Firebird · Redis · Celery · RabbitMQ · Docker · AWS (Lambda, SQS, SNS, S3, SES, Step Functions) · JavaScript · jQuery · getbootstrap · TDD · BDD · Arquitetura DDD.

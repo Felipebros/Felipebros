@@ -1,13 +1,14 @@
 <h1 align="center">Olá 👋, sou Felipebros</h1>
-<h3 align="center">Desenvolvedor Backend / FullStack apaixonado por desenvolvimento, moro em Minas Gerais, Brasil</h3>
+<h3 align="center">Desenvolvedor Backend / FullStack apaixonado por tecnologia de Minas Gerais, Brasil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipebros&label=Profile%20views&color=0e75b6&style=flat-square&label=Visualizações+do+perfil" alt="felipebros" /> </p>
 
-<div>
+<p align="left">
   <a href="https://www.linkedin.com/in/felipebros/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white][" target="_blank"></a> 
   <a href="https://www.instagram.com/felipeiturama/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-b30525?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/felipebross" target="_blank"><img src="https://img.shields.io/twitter/follow/felipebross?logo=twitter&style=for-the-badge" alt="Twitter felipebross" title="Twitter felipebross" /></a>
-</div>
+  <a href="mailto:felipeiturama@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -17,14 +18,11 @@
 Python (Django, Flask, FastAPI, Scrapy) · PHP (Laravel, CodeIgniter) · PostgreSQL · MySQL · ElasticSearch · DynamoDB · Firebird · Redis · Celery · RabbitMQ · Docker · AWS (Lambda, SQS, SNS, S3, SES, Step Functions) · JavaScript · jQuery · getbootstrap · TDD · BDD · Arquitetura DDD.
 
 🔧 **Experiência prática com**:
-
-- Desenvolvimento Desenvolvedor Backend e FullStack
-- Criação de sistemas com jQuery, JavaScript e Bootstrap
+- Desenvolvimento Backend e FullStack
+- Criação de sistemas com JavaScript, jQuery e Bootstrap
 - Web Crawlers com Scrapy
-- Testes automatizados com Pytest
-- Integração e deploy contínuos
-- Infraestrutura serverless
-- Sistemas legados e modernos
+- Testes automatizados (TDD/BDD) com Pytest
+- Infraestrutura Serverless e deploy contínuo (AWS)
 
 🎓 **Formação**: Sistemas de Informação (FEF)
 

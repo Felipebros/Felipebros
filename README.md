@@ -4,10 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipebros&label=Profile%20views&color=0e75b6&style=flat-square&label=Visualizações+do+perfil" alt="felipebros" /> </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/felipebros/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/felipeiturama/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-b30525?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/felipebross" target="_blank"><img src="https://img.shields.io/twitter/follow/felipebross?logo=twitter&style=for-the-badge" alt="Twitter felipebross" title="Twitter felipebross" /></a>
-  <a href="mailto:felipeiturama@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/felipebros/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn felipebros" title="LinkedIn felipebros" /></a>
+  <a href="https://www.instagram.com/felipeiturama/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram felipeiturama" title="Instagram felipeiturama" /></a>
+  <a href="https://www.x.com/felipebross" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X felipebross" title="X felipebross" /></a>
+  <a href="mailto:felipeiturama@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email felipeiturama@gmail.com" title="Email felipeiturama@gmail.com" /></a>
 </p>
 
 ---
@@ -56,17 +56,18 @@ Python (Django, Flask, FastAPI, Scrapy) · PHP (Laravel, CodeIgniter) · Postgre
 ### 📬 Contatos & Redes Sociais
 
 <p align="left">
-  <a href="https://linkedin.com/in/felipebros" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn felipebros" title="LinkedIn felipebros" /></a>
-  <a href="https://dev.to/felipebros" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="felipebros" title="dev.to felipebros" /></a>
-  <a href="https://stackoverflow.com/users/10386610/felipebros" target="blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow felipebros International" title="stackoverflow felipebros International" /></a>
-  <a href="https://pt.stackoverflow.com/users/96918/felipebros" target="blank"><img src="https://img.shields.io/badge/Stack_Overflow_PT-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="st'ackoverflow felipebros Português" title="stackoverflow felipebros Português" /></a>
-  <a href="https://x.com/felipebross" target="blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X felipebross" title="X felipebross" /></a>
-  <a href="https://medium.com/@felipebros" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium @felipebros" title="Medium @felipebros" /></a>
-  <a href="https://www.youtube.com/felipeiturama" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube felipeiturama" title="YouTube felipeiturama" /></a>
-  <a href="https://discord.gg/Felipebros#2938" target="blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Felipebros#2938" title="Discord Felipebros#2938" /></a>
-  <a href="https://instagram.com/felipeiturama" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram felipeiturama" title="Instagram felipeiturama" /></a>
-  <a href="https://fb.com/felipebros" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="felipebros" title="Facebook felipebros" /></a>
-  <a href="https://glasp.co/#/Felipebros" target="blank"><img src="https://img.shields.io/badge/Glasp-F9AB00?style=for-the-badge&logo=glasp&logoColor=white" alt="Glasp Felipebros" title="Glasp Felipebros" /></a>
+  <a href="https://www.linkedin.com/in/felipebros/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn felipebros" title="LinkedIn felipebros" /></a>
+  <a href="https://www.dev.to/felipebros" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="felipebros" title="dev.to felipebros" /></a>
+  <a href="https://www.stackoverflow.com/users/10386610/felipebros" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow felipebros International" title="stackoverflow felipebros International" /></a>
+  <a href="https://www.pt.stackoverflow.com/users/96918/felipebros" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow_PT-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="st'ackoverflow felipebros Português" title="stackoverflow felipebros Português" /></a>
+  <a href="https://www.x.com/felipebross" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X felipebross" title="X felipebross" /></a>
+  <a href="https://www.medium.com/@felipebros" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium @felipebros" title="Medium @felipebros" /></a>
+  <a href="https://www.youtube.com/felipeiturama" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube felipeiturama" title="YouTube felipeiturama" /></a>
+  <a href="https://www.discord.gg/Felipebros#2938" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Felipebros#2938" title="Discord Felipebros#2938" /></a>
+  <a href="https://www.instagram.com/felipeiturama/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram felipeiturama" title="Instagram felipeiturama" /></a>
+  <a href="https://www.fb.com/felipebros" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="felipebros" title="Facebook felipebros" /></a>
+  <a href="https://www.glasp.co/#/Felipebros" target="_blank"><img src="https://img.shields.io/badge/Glasp-F9AB00?style=for-the-badge&logo=glasp&logoColor=white" alt="Glasp Felipebros" title="Glasp Felipebros" /></a>
+  <a href="mailto:felipeiturama@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email felipeiturama@gmail.com" title="Email felipeiturama@gmail.com" /></a>
 </p>
 
 ### 🛠️ Tecnologias & Ferramentas

@@ -38,7 +38,6 @@ Python (Django, Flask, FastAPI, Scrapy) · PHP (Laravel, CodeIgniter) · Postgre
 - 🌎 Lista de melhores bancos e dicas financeiras [https://linktr.ee/Felipebros](https://linktr.ee/Felipebros)
 - 🌎 Site de ferramenta de [PDF Manager](https://pdfmanageronline.blogspot.com/p/merge-pdf-file.html)
 - 🌎 Perfil Tabnews [Tabnews](https://www.tabnews.com.br/Felipebros)
-- 📫 Como entrar em contato comigo **felipeiturama@gmail.com**
 
 - 📄 Saiba mais sobre minhas experiências no LinkedIn [https://www.linkedin.com/in/felipebros/](https://www.linkedin.com/in/felipebros/)
 

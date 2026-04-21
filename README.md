@@ -104,14 +104,15 @@ Python (Django, Flask, FastAPI, Scrapy) · PHP (Laravel, CodeIgniter) · Postgre
 
 <p align="center">
   <img height=195 src="https://github-readme-stats.vercel.app/api?username=felipebros&show_icons=true" alt="Estatísticas GitHub felipebros">
+</p>
+
+<p align="center">
   <img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipebros&layout=compact" alt="Linguagens mais usadas por felipebros no GitHub">
 </p>
 
-
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=felipebros" alt="Contribuições GitHub felipebros" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=felipebros" alt="Contribuições GitHub felipebros" /></a>
 </p>
-
 
 ---
 

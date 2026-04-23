@@ -33,14 +33,6 @@ Python (Django, Flask, FastAPI, Scrapy) · PHP (Laravel, CodeIgniter) · Postgre
 
 ---
 
-- 🌎 Meu site de links úteis e testes [https://comercioiturama.blogspot.com](https://comercioiturama.blogspot.com)
-- 🌎 Códigos e ferramentas úteis [https://felipebros.github.io/Codigos/](https://felipebros.github.io/Codigos/)
-- 🌎 Lista de melhores bancos e dicas financeiras [https://linktr.ee/Felipebros](https://linktr.ee/Felipebros)
-- 🌎 Site de ferramenta de [PDF Manager](https://pdfmanageronline.blogspot.com/p/merge-pdf-file.html)
-- 🌎 Perfil Tabnews [Tabnews](https://www.tabnews.com.br/Felipebros)
-
-- 📄 Saiba mais sobre minhas experiências no LinkedIn [https://www.linkedin.com/in/felipebros/](https://www.linkedin.com/in/felipebros/)
-
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -57,6 +49,7 @@ Python (Django, Flask, FastAPI, Scrapy) · PHP (Laravel, CodeIgniter) · Postgre
   <a href="https://www.medium.com/@felipebros" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium @felipebros" title="Medium @felipebros" /></a>
   <a href="https://www.youtube.com/felipeiturama" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube felipeiturama" title="YouTube felipeiturama" /></a>
   <a href="https://www.glasp.co/#/Felipebros" target="_blank"><img src="https://img.shields.io/badge/Glasp-F9AB00?style=for-the-badge&logo=glasp&logoColor=white" alt="Glasp Felipebros" title="Glasp Felipebros" /></a>
+  <a href="https://www.tabnews.com.br/Felipebros" target="_blank"><img src="https://img.shields.io/badge/TabNews-24292F?style=for-the-badge&logo=tabnews&logoColor=white" alt="TabNews Felipebros" title="TabNews Felipebros" /></a>
 </p>
 
 ### 🛠️ Tecnologias & Ferramentas
@@ -115,12 +108,12 @@ Python (Django, Flask, FastAPI, Scrapy) · PHP (Laravel, CodeIgniter) · Postgre
 
 ---
 
-### 🌎 Onde me encontrar
+### 🛠️ Exemplos de ferramentas que eu desenvolvi
 
-- 🛠️ [Codigos e ferramentas úteis](https://felipebros.github.io/Codigos/)
-- 💰 [Dicas financeiras & Melhores bancos](https://linktr.ee/Felipebros)
+- 🚀 [Codigos e ferramentas úteis](https://felipebros.github.io/Codigos/)
 - 📄 [PDF Manager Online](https://pdfmanageronline.blogspot.com/p/merge-pdf-file.html)
-- 📝 [Meu blog no Tabnews](https://www.tabnews.com.br/Felipebros)
+- 🧪 [Site de links úteis e testes](https://comercioiturama.blogspot.com)
+- 💰 [Dicas financeiras & Melhores bancos](https://linktr.ee/Felipebros)
 
 
 ### 📊 Estatísticas
